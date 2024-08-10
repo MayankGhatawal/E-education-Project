@@ -58,8 +58,8 @@ To run this project locally, follow these steps:
 3. **Set up environment variables**:
    Create a `.env` file in the `backend` directory and add the following:
    ```env
-   MONGO_URI=your_mongodb_uri
-   PORT=5000
+   MONGO_URI=mongodb://localhost:27017
+   PORT=8000
    ```
 
 4. **Run the application**:
