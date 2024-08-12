@@ -1,10 +1,10 @@
-import React from "react";
+// import React from "react";
 function App(){
   return(
     <>
-
+      
     </>
   );
 }
 
-export function App;
+export default App;
