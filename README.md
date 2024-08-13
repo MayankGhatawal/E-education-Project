@@ -4,7 +4,7 @@
 ## Overview
 
 
-<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="500" alt="NUX_Octodex">
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="1000" alt="NUX_Octodex">
 
 
 The **e-Education** project is a modern web application designed to enhance the online education experience. This platform offers a seamless and interactive learning environment, utilizing a robust technology stack with a focus on scalability and performance.
