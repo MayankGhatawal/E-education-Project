@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;](https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=35&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=e-Education+Project;Full-Stack+Project;S.I.H.+Problem&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </h1>
